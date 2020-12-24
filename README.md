@@ -8,6 +8,7 @@ Thanks to all who helped me.
 
 # Thanks to:
 RedShyGuy,
+
 and people on GBAtemp that helped me.
 
 # Got a suggestion? (for a debugger or just a cheat)
