@@ -11,9 +11,5 @@ RedShyGuy,
 
 and people on GBAtemp that helped me.
 
-# Got a suggestion? (Cheat suggestion, etc.)
-Feel free to make an issue telling how
-you can help, or just how you think I
-make better cheats. Currently I have
-no debugger, and close to no experience
-in memory-based stuff such as cheats.
+# Hate my cheats and want to make your own?
+Follow this [guide](http://github.com/SirEnder125/Untitled-ACNL-Plugin/wiki)
